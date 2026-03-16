@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 pandas
 psycopg2
 python-dotenv
 tabulate
 
+=======
+pandas
+psycopg2
+python-dotenv
+tabulate
+
+>>>>>>> 3ec408668f2bcc9c87bfdc154a2dc04b03a80e13
