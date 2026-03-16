@@ -32,7 +32,7 @@ logger = logging.getLogger(__name__)
 # ---------------------------------------
 DB_PARAMS = {
     "host": os.getenv("DB_HOST"),
-    "port": int(os.getenv("DB_PORT")),
+    "port": os.getenv("DB_PORT"),
     "dbname": os.getenv("DB_NAME"),
     "user": os.getenv("DB_USER"),
     "password": os.getenv("DB_PASSWORD"),
